@@ -18,3 +18,23 @@ Input la busqueda output una lista ordenada de los resultados que mas te convien
 
 ## Personalización (Como la playlist descubrimiento semanal en Spotify)
 Dada la musica que hayas escuchado, spotify va conociendo tus preferencias, tomando entonces, tu comportamiento en la plataforma como un input en el modelo de machine learning va a entregarte un output las canciones que te pueden gustar.
+
+# Retos de un Data Scientist
+
+### Una semana típica
+
+* Análisis exploratorio
+* Construir un modelo matemático
+* Construir un sistema ingenieril para automatizar dicho modelo
+* Coordinar con el negocio (demostrar que sirve)
+* Explicar resultados
+
+### Un año típico
+
+* Desarrollar relaciones
+* Evangelizar una cultura de datos dentro de la empresa
+* Construir herramientas para uso interno
+* Construir sistemas y herramientas para usuarios externos (clientes de la empresa)
+* Construir y mantener sistemas ingenieriles de ETL (obtener datos externos para usarlos en la empresa [Extract Transform Load])
+
+# "Dar y consumir lo mas posible"
