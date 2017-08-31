@@ -38,3 +38,8 @@ Dada la musica que hayas escuchado, spotify va conociendo tus preferencias, toma
 * Construir y mantener sistemas ingenieriles de ETL (obtener datos externos para usarlos en la empresa [Extract Transform Load])
 
 # "Dar y consumir lo mas posible"
+
+## Surgimiento de la Ciencia de datos ¿Por qué no antes?
+
+* Cantidad de datos generados (Practicamente llueven)
+* Poder de procesamiento
