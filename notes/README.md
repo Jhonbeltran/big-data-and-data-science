@@ -43,3 +43,23 @@ Dada la musica que hayas escuchado, spotify va conociendo tus preferencias, toma
 
 * Cantidad de datos generados (Practicamente llueven)
 * Poder de procesamiento
+
+## ¿En que campos trabajan los DAta Scientist? (spoiler: en casi todos)
+
+Campos como: 
+
+* Medicina
+* Agricultura
+* Software
+* Energia
+* Gobierno
+
+Empresas como:
+
+* Spotify 
+* Google
+* Facebook
+
+Algunos en ecosistemas academicos para hacer crecer el campo en un sentido mas teorico, otros que trabajan en la industria los cuales debn estar al tanto de los avances, quienes buscan de enriquecer el negocio.
+
+Algunos trabajan de forma teorica y van implementando lo que generan en una empresa.
