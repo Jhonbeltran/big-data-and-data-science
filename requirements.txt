@@ -1,3 +1,5 @@
 jupyter>=1.0.0
 pandas>=0.20.3
+matplotlib>=2.0.2
+
 
