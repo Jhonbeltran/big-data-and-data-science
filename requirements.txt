@@ -3,6 +3,4 @@ pandas>=0.20.3
 matplotlib>=2.0.2
 seaborn>=0.8
 tweepy>=3.5.0
-
-
-
+Unidecode>=0.4.21
