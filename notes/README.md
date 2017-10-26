@@ -63,3 +63,6 @@ Empresas como:
 Algunos en ecosistemas academicos para hacer crecer el campo en un sentido mas teorico, otros que trabajan en la industria los cuales debn estar al tanto de los avances, quienes buscan de enriquecer el negocio.
 
 Algunos trabajan de forma teorica y van implementando lo que generan en una empresa.
+
+
+> Cuando tenemos pocos datos debemos reconstruir el modelo matemático, en el caso de tener una gran cantidad de datos (Big Data) el proceso para entender el modelo es mucho mas sencillo.
